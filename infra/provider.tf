@@ -3,6 +3,6 @@
 # Provisers 
 
 provider "google" {
-  project = "omega-rhino-408517"
-  region  = "us-central1"
+  project = var.project_id
+  region  = var.gcp_region
 }
