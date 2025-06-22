@@ -38,3 +38,4 @@ terraform.rc
 
 ssh-keys/
 .terraform.lock.hcl
+commnad-powershell
